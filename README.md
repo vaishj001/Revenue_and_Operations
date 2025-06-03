@@ -127,11 +127,14 @@ project-root/
 │   ├── 01_customer_spend_exploration.sql
 │   ├── 02_category_cost_modeling.sql
 │   └── 03_monthly_revenue_view.sql
+│   └── olist.db                     # Database and schema
 │
 ├── data/
 │   ├── raw/                             # Extracted CSVs from Kaggle
 │   └── olist.db                         # SQLite relational database used in analysis
 │
+├── memo.pdf                             # Professional memo to senior executives
+|
 └── README.md                            # Project documentation (this file)
 ```
 
