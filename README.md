@@ -129,7 +129,6 @@ project-root/
 │   └── 03_monthly_revenue_view.sql
 │
 ├── memo.pdf                             # Professional memo to senior executives
-|
 └── README.md                            # Project documentation (this file)
 ```
 
