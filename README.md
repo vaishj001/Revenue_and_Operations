@@ -128,9 +128,6 @@ project-root/
 │   ├── 02_category_cost_modeling.sql
 │   └── 03_monthly_revenue_view.sql
 │
-├── data/
-│   └── olist.db                         # SQLite relational database used in analysis
-│
 ├── memo.pdf                             # Professional memo to senior executives
 |
 └── README.md                            # Project documentation (this file)
